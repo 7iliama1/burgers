@@ -1,7 +1,7 @@
 <div align="center">
 <b>Burgers onePage site</b>
   <br>
-  https://7iliama1.github.io/burgers/
+ https://7iliama1.github.io/burgers/
 </div>
 <br>
 <div align="center">
