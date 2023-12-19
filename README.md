@@ -1,5 +1,5 @@
 <div align="center">
-<b>Burgers onePage site</b>
+<b>Burgers SPA</b>
   <br>
  https://7iliama1.github.io/burgers/
 </div>
