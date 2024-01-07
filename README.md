@@ -6,5 +6,5 @@
 <br>
 <div align="center">
   
-![Burgers](https://github.com/7iliama1/burgers/assets/106347442/70375205-4bf5-464c-b563-ff45dd29feac)
+![burgers](https://github.com/7iliama1/burgers/assets/106347442/080402c7-cd0c-451b-93ae-663ecef9e71c)
 </div>
